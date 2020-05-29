@@ -102,4 +102,6 @@ class Chat extends Type
      */
     public $can_set_sticker_set;
     
+    public $all_members_are_administrators;
+    
 }
