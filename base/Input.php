@@ -10,6 +10,8 @@ class Input extends Type
 {
     public $update_id;
 
+    public $callback_query;
+    
     private $_message;
 
     public function init()
