@@ -4,10 +4,15 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "LGPL-3.0+",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "akbarjoudi",
             "email": "akbar.joody@gmail.ocm"
+        },
+        {
+            "name": "FireDemon",
+            "email": "firedemon@firedemon.su"
         }
     ],
     "require": {
