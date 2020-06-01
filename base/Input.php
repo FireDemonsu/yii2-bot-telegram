@@ -12,6 +12,8 @@ class Input extends Type
 
     public $callback_query;
     
+    public $channel_post;
+    
     private $_message;
 
     public function init()
