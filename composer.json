@@ -4,7 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "LGPL-3.0+",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "authors": [
         {
             "name": "akbarjoudi",
