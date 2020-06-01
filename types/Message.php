@@ -312,7 +312,7 @@ class Message extends Type
 
 
 
-
+    public $left_chat_participant;
 
 
 
